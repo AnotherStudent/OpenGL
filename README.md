@@ -1,4 +1,7 @@
 # OpenGL
+## 3d-графика
+Выполнено по материалам сайта открытых уроков OpenGL http://www.opengl-tutorial.org
+
 ## Окно
 ![img](img/window.png)
 
